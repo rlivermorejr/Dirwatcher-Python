@@ -1,4 +1,6 @@
 # dirwatcher-python
+## Once you have your python interpreter set up, you should be okay to run program
+
 ### Running the program
 - Start by running *python dirwatcher.py --HELP* or *python dirwatcher.py -h*
 ### Arguments 
